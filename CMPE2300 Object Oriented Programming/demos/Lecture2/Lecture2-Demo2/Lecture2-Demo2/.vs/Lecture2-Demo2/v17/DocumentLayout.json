@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ompatel\\Downloads\\Lecture2-Demo2\\Lecture2-Demo2\\",
+  "WorkspaceRootPath": "C:\\Users\\opatel3\\Documents\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\demos\\Lecture2\\Lecture2-Demo2\\Lecture2-Demo2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC837078-56D9-455E-8104-C3769DCD3DD0}|Lecture2-Demo2\\Lecture2-Demo2.csproj|c:\\users\\ompatel\\downloads\\lecture2-demo2\\lecture2-demo2\\lecture2-demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC837078-56D9-455E-8104-C3769DCD3DD0}|Lecture2-Demo2\\Lecture2-Demo2.csproj|c:\\users\\opatel3\\documents\\winter-2026-nait-\\cmpe2300 object oriented programming\\demos\\lecture2\\lecture2-demo2\\lecture2-demo2\\lecture2-demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC837078-56D9-455E-8104-C3769DCD3DD0}|Lecture2-Demo2\\Lecture2-Demo2.csproj|solutionrelative:lecture2-demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC837078-56D9-455E-8104-C3769DCD3DD0}|Lecture2-Demo2\\Lecture2-Demo2.csproj|c:\\users\\ompatel\\downloads\\lecture2-demo2\\lecture2-demo2\\lecture2-demo2\\cstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC837078-56D9-455E-8104-C3769DCD3DD0}|Lecture2-Demo2\\Lecture2-Demo2.csproj|c:\\users\\opatel3\\documents\\winter-2026-nait-\\cmpe2300 object oriented programming\\demos\\lecture2\\lecture2-demo2\\lecture2-demo2\\lecture2-demo2\\cstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC837078-56D9-455E-8104-C3769DCD3DD0}|Lecture2-Demo2\\Lecture2-Demo2.csproj|solutionrelative:lecture2-demo2\\cstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CStudent.cs",
-              "DocumentMoniker": "C:\\Users\\ompatel\\Downloads\\Lecture2-Demo2\\Lecture2-Demo2\\Lecture2-Demo2\\CStudent.cs",
+              "DocumentMoniker": "C:\\Users\\opatel3\\Documents\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\demos\\Lecture2\\Lecture2-Demo2\\Lecture2-Demo2\\Lecture2-Demo2\\CStudent.cs",
               "RelativeDocumentMoniker": "Lecture2-Demo2\\CStudent.cs",
-              "ToolTip": "C:\\Users\\ompatel\\Downloads\\Lecture2-Demo2\\Lecture2-Demo2\\Lecture2-Demo2\\CStudent.cs",
+              "ToolTip": "C:\\Users\\opatel3\\Documents\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\demos\\Lecture2\\Lecture2-Demo2\\Lecture2-Demo2\\Lecture2-Demo2\\CStudent.cs",
               "RelativeToolTip": "Lecture2-Demo2\\CStudent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ompatel\\Downloads\\Lecture2-Demo2\\Lecture2-Demo2\\Lecture2-Demo2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\opatel3\\Documents\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\demos\\Lecture2\\Lecture2-Demo2\\Lecture2-Demo2\\Lecture2-Demo2\\Program.cs",
               "RelativeDocumentMoniker": "Lecture2-Demo2\\Program.cs",
-              "ToolTip": "C:\\Users\\ompatel\\Downloads\\Lecture2-Demo2\\Lecture2-Demo2\\Lecture2-Demo2\\Program.cs",
+              "ToolTip": "C:\\Users\\opatel3\\Documents\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\demos\\Lecture2\\Lecture2-Demo2\\Lecture2-Demo2\\Lecture2-Demo2\\Program.cs",
               "RelativeToolTip": "Lecture2-Demo2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
