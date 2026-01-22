@@ -9,4 +9,10 @@ using Lecture3Demo2;
 Employee emp = new Employee();
 
 emp.FullName = "Om";
-Console.Write($"The name of the employee is {emp.FullName}.");
+Console.WriteLine($"The name of the employee 1 is {emp.FullName}.");
+
+Employee emp2 = new Employee("Keya");
+Console.WriteLine($"The name of the employee 2 is {emp2.FullName}.");
+
+
+

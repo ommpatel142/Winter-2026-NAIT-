@@ -13,8 +13,16 @@ namespace Lecture3Demo2
         {
             get;
             set;
-        }
+        } 
+
+        //We'll use the property directly in our constructor
         public Employee(string name)
+        {
+            FullName = name;
+        }
+
+        //Leveraging the one-parameter constructor to create the default constructor
+        public Employee():this("Om Patel")
         {
 
         }
