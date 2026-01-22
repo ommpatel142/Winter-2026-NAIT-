@@ -3,3 +3,12 @@
 /*
  * Lecture 3 demo3 - Eorking with nullable members, expression-bodies members and Computed properties 
  */
+
+
+using Lecture3Demo3;
+
+Person p1 = new Person();
+p1.FirstName = "Om";
+p1.LastName = "Patel";
+
+Console.WriteLine($"Name of p1 is {p1.FullName}");
