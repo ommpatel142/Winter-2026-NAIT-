@@ -26,7 +26,12 @@ namespace Lecture2BDemo6
         private void UI_Timer_Tick(object sender, EventArgs e)  
         {
             this.Text = $"Count is: {count} and number of milliseconds Elapsed: {sw.ElapsedMilliseconds}";  
-            count++;                           
+             count++;
+            int x = count;
+            if(x % 20 == 0) //Demo6C
+            {
+                UI_Display_Lbx.Items.Add($"The value of Count: {x}");
+            }
         }
 
         private void button1_Click(object sender, EventArgs e)
