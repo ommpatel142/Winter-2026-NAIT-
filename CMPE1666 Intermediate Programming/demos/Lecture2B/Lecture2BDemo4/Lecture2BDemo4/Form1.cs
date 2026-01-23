@@ -15,7 +15,6 @@ namespace Lecture2BDemo4
         public Form1()
         {
             InitializeComponent();
-           
         }
 
         private void UI_Input_Tbx_TextChanged(object sender, EventArgs e)
