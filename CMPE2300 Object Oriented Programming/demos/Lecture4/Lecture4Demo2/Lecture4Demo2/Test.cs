@@ -26,5 +26,6 @@ namespace Lecture4Demo2
             string[] messages = { "BS was down..", "Github was down..", "Teams was down.." };
             return messages[GetRandomNumber((short)messages.Length)];
         }
+
     }
 }
